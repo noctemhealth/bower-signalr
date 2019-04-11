@@ -1,6 +1,6 @@
 {
   "_from": "signalr",
-  "_id": "signalr@2.4.0",
+  "_id": "signalr@2.0.1",
   "_inBundle": false,
   "_integrity": "sha512-GPJHb3pcNk3IUui5/WG8lMuarEn+Vpc8wEvJ60w0KQ43W9FHnJcuNcF8dkZePr81eBslzicsRdyEunKNF7KjZQ==",
   "_location": "/signalr",
