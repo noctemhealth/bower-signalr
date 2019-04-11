@@ -25,7 +25,7 @@
     "name": "Microsoft"
   },
   "bugs": {
-    "url": "https://github.com/SignalR/SignalR/issues"
+    "url": "https://github.com/noctemhealth/SignalR/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -39,7 +39,7 @@
     "README.md",
     "LICENSE.md"
   ],
-  "homepage": "https://github.com/SignalR/SignalR",
+  "homepage": "https://github.com/noctemhealth/SignalR",
   "keywords": [
     "signalr",
     "microsoft",
@@ -53,7 +53,7 @@
   "name": "signalr",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/signalr/bower-signalr.git"
+    "url": "git+https://github.com/noctemhealth/bower-signalr.git"
   },
   "version": "2.4.0"
 }
