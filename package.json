@@ -19,10 +19,8 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/signalr/-/signalr-2.4.0.tgz",
   "_shasum": "92af008e6b527ad4b36e94fbb340e135087a60d2",
   "_spec": "signalr",
-  "_where": "C:\\Users\\anurse\\Desktop",
   "author": {
     "name": "Microsoft"
   },
